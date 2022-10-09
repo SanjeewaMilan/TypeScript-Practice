@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Typescript practice project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjeewaMilan/TypeScript-Practice.git"
+  },
+  "author": "Sanjeewa Milan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjeewaMilan/TypeScript-Practice/issues"
+  },
+  "homepage": "https://github.com/SanjeewaMilan/TypeScript-Practice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
